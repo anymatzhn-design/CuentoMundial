@@ -697,12 +697,12 @@ $gArts  = array_slice($articles,$skip,12);
   <div class="ft-inner" style="max-width:1400px; margin:0 auto; display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:50px; padding:40px 20px;">
     <div style="grid-column: span 2;">
       <div class="logo-mark" style="font-size:2rem; animation:none; margin-bottom:10px;">CUENTO<br><span style="color:var(--mint)">MUNDIAL</span></div>
-      <p style="color:var(--text-muted); font-size:0.9rem; line-height:1.6;">El diario digital de información premium dedicado a la Copa del Mundo 2026. Desarrollado por Fernando J. Pacheco.</p>
+      <p style="color:var(--text-muted); font-size:0.9rem; line-height:1.6;">El diario digital de información dedicado a la Copa del Mundo 2026.</p>
     </div>
   </div>
   <div style="max-width:1400px; margin:0 auto; padding:30px 20px; border-top:1px solid var(--border-subtle); display:flex; justify-content:space-between; font-size:0.8rem; color:var(--text-muted); font-weight:500;">
-    <span>© <?=date('Y')?> CUENTO MUNDIAL.</span>
-    <a href="?admin" style="color:var(--mint); font-weight:700; text-transform:uppercase;">Internal Dashboard</a>
+    <span>© <?=date('Y')?>  Desarrollado por Fernando J. Pacheco</span>
+    <a href="?admin" style="color:var(--mint); font-weight:700; text-transform:uppercase;">Redacción</a>
   </div>
 </footer>
 
