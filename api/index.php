@@ -493,7 +493,7 @@ textarea.fi { resize: vertical; min-height: 200px; }
 
 <div class="alert-strip">
   <div class="alert-ticker">
-    <span>Streaming Premium de la Copa del Mundo 2026</span>
+    <span>Diario Digital de la Copa del Mundo 2026</span>
     <span>Sigue toda la información en vivo</span>
     <span>48 Selecciones buscando la gloria en USA, Canadá y México</span>
     <span>Entrevistas, previas, análisis tácticos y resúmenes</span>
@@ -697,7 +697,7 @@ $gArts  = array_slice($articles,$skip,12);
   <div class="ft-inner" style="max-width:1400px; margin:0 auto; display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:50px; padding:40px 20px;">
     <div style="grid-column: span 2;">
       <div class="logo-mark" style="font-size:2rem; animation:none; margin-bottom:10px;">CUENTO<br><span style="color:var(--mint)">MUNDIAL</span></div>
-      <p style="color:var(--text-muted); font-size:0.9rem; line-height:1.6;">El sistema digital de información premium dedicado a la Copa del Mundo 2026. Data en vivo y performance de élite.</p>
+      <p style="color:var(--text-muted); font-size:0.9rem; line-height:1.6;">El diario digital de información premium dedicado a la Copa del Mundo 2026. Desarrollado por Fernando J. Pacheco.</p>
     </div>
   </div>
   <div style="max-width:1400px; margin:0 auto; padding:30px 20px; border-top:1px solid var(--border-subtle); display:flex; justify-content:space-between; font-size:0.8rem; color:var(--text-muted); font-weight:500;">
