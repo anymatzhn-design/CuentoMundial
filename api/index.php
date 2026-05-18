@@ -501,7 +501,7 @@ textarea.fi { resize: vertical; min-height: 200px; }
 </div>
 
 <header class="masthead">
-  <div class="mh-bar"><span><?=$hoy?></span><a href="?admin">System Access</a></div>
+  <div class="mh-bar"><span><?=$hoy?></span><a href="?admin">Redacción</a></div>
   <div class="logo-mark">CUENTO<span class="acc">MUNDIAL</span></div>
   <div style="font-size: 0.9rem; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.2em;">El Fútbol se vive en Otro Nivel</div>
   <div class="badge-row">
